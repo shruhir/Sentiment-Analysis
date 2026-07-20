@@ -1,0 +1,5 @@
+Flask
+numpy
+tensorflow         # If you're using TensorFlow in sentiment_model.py
+pandas             # If you're using Pandas for data manipulation
+scikit-learn       # If you're using scikit-learn for model processing
